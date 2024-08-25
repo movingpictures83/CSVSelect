@@ -1,0 +1,2 @@
+Prefix plugins/CSVSelect/example/
+Plugin CSVSelect inputfile parameters.txt outputfile abund.select.csv
